@@ -1,10 +1,11 @@
 # Guacamole
 
-This is where the documents for the guacamole recipe reside.
+This is where the documents for the **guacamole** recipe *reside*.
 
 ## Ingredients
 
 The ingredients file goes here. It will include portions.
+[Link to Google!](http://google.com)
 
 ## Recipe
 
